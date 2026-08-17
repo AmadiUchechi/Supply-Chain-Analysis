@@ -54,7 +54,7 @@ The dashboard makes it easier to identify exceptions and prioritize areas requir
 
 # Key Findings
 #1. Stockout Risk
-Low-risk stockout records exceeded high-risk records in both major product categories
+High-risk stockout records exceeded low-risk records in both major product categories
 1. Skincare: 135 high-risk records
 2. Haircare: 118 high-risk records
 3. SKU152 and SKU372 had the most severe shortages, with availability 96 units below order quantity.
