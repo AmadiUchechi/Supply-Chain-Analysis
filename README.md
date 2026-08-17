@@ -1,4 +1,4 @@
-# Supply-Chain-Analysis Dashboard - Uniquexcel MakeUP Product Line
+# Supply-Chain-Analysis Dashboard - Uniquexcel MakeUp Product Line
 This project analyzes Uniquexcel's makeup product supply chain data to identify operational challenges and provide data driven recommendations for improving inventory management, supplier performance, transportation efficiency, product quality, and profitability.
 
 Using Microsoft Excel, the raw supply chain dataset was cleaned, analyzed, and transformed into an interactive dashboard that allows key supply chain performance indicators to be monitored in one place.
