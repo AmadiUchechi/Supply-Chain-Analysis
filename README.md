@@ -8,7 +8,7 @@ The analysis focuses on answering five key business questions
 2. Which suppliers or routes are causing delays or high costs?
 3. Are defect rates linked to suplliers or manufacturing lead times?
 4. What is the profitability of each product?
-5. Is transportation mode rrlated to shipping cost?
+5. Is transportation mode related to shipping cost?
 
 # Business Problem
 Uniquexcel faces several suppl,y chain challenges that could negatively affect operational efficiency and profitability, including:
