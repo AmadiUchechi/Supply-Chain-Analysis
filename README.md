@@ -20,7 +20,7 @@ Uniquexcel faces several suppl,y chain challenges that could negatively affect o
 
 If these issues are not properly managed, they can result in lost sales, emergency replenishment costs, product defects, customer complaints, inefficient inventory allocation, and reduced profitability.
 
-The objective of this project was therefore to use supply chain data to identify these problem areas and recommend practical actions for managemtn.
+The objective of this project was therefore to use supply chain data to identify these problem areas and recommend practical actions for management.
 
 # Tools and Skills Used
 1. Microsoft Excel
