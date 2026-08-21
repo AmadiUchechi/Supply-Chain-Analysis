@@ -41,7 +41,7 @@ The objective of this project was therefore to use supply chain data to identify
 # Dashboard
 The Excel Dashboard provides a consolidated view of important supply chain metrics, including:
 1. Total Shipping Costs
-2. Average Mnaufacturing Lead Time
+2. Average Manufacturing Lead Time
 3. Average Defect Rate
 4. Average Product Cost
 5. Stockout Risk by Product Type
@@ -49,6 +49,9 @@ The Excel Dashboard provides a consolidated view of important supply chain metri
 7. Route Performance
 8. Transportation Costs
 9. Product Profitability
+
+<img width="1753" height="742" alt="image" src="https://github.com/user-attachments/assets/2af5b10d-453f-4285-b7f1-28eebdc971d2" />
+
 
 The dashboard makes it easier to identify exceptions and prioritize areas requiring management attention.
 
