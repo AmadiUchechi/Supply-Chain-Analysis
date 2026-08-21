@@ -68,13 +68,13 @@ Other signioficant shortages  included SKU35, SKU427, SKU195, SKU391, SKU83, SKU
 Route C had the longest average lead time at approximately 16.05 days.
 Route B provided the best combination of lead time and shipping cost
 
-. Average lead time: 15.30 days
-. Average shipping cost: $5.25
+1. Average lead time: 15.30 days
+2. Average shipping cost: $5.25
 
 Supplier analysis also identified:
-. Supplier 4 with the longest supplier lead time of approximately 17.04 dyas
-. Supplier 4 manufacturing lead time of approximately 16.35 days
-. Supplier 5 with the highest average shipping cost of approximately $5.71
+1. Supplier 4 with the longest supplier lead time of approximately 17.04 dyas
+2. Supplier 4 manufacturing lead time of approximately 16.35 days
+3. Supplier 5 with the highest average shipping cost of approximately $5.71
 
 # 3. Supplier Quality
 Supplier 1 recorded the highest average defect rate at approximately 2.80%, followed by Supplier 3 at 2.72%.
@@ -143,9 +143,9 @@ Transportation decisons should not be based solely on shipping cost because the 
 
 A more practical strategy woukd be to use:
 
-. Road where operationally feasible
-. Rail for steady bulk replenishment
-. Air for urgent stockout prevention or high-margin products.
+1. Road where operationally feasible
+2. Rail for steady bulk replenishment
+3. Air for urgent stockout prevention or high-margin products.
 
 Greater cost-saving opportunities may comes from supplier and route negotiations rather than simply changing transportation modes.
 
@@ -159,15 +159,15 @@ Monthly              Review SKU-level profitability                             
 
 # Business Impact
 Implementing these recommendations can help Uniquexcel:
-. Reduce product stockouts
-. Improve inventory availability
-. Reduce supplier-related defects
-. Improve supplier accountability
-. Reduce unnecessary logistics costs
-. Improve supply chian reliability
-. Prioritize high-profit products
-. Support better data-driven decision-making
-. Improve overall operating profitability
+1. Reduce product stockouts
+2. Improve inventory availability
+3. Reduce supplier-related defects
+4. Improve supplier accountability
+5. Reduce unnecessary logistics costs
+6. Improve supply chian reliability
+7. Prioritize high-profit products
+8. Support better data-driven decision-making
+9. Improve overall operating profitability
 
 # Conclusion
 This project demonstrates how Excel can be used to transform raw supply chain data into actionable business insights.
