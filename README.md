@@ -4,8 +4,8 @@ This project analyzes Uniquexcel's makeup product supply chain data to identify 
 Using Microsoft Excel, the raw supply chain dataset was cleaned, analyzed, and transformed into an interactive dashboard that allows key supply chain performance indicators to be monitored in one place.
 
 The analysis focuses on answering five key business questions
-1. Which SKUs are at risk of stockouys?
-2. Which suppliers or routes are causing delays or high costs?
+-- Which SKUs are at risk of stockouys?
+-- Which suppliers or routes are causing delays or high costs?
 3. Are defect rates linked to suplliers or manufacturing lead times?
 4. What is the profitability of each product?
 5. Is transportation mode related to shipping cost?
