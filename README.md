@@ -12,43 +12,43 @@ The analysis focuses on answering five key business questions
 
 # Business Problem
 Uniquexcel faces several suppl,y chain challenges that could negatively affect operational efficiency and profitability, including:
-1. High stockout risk across skincare and haircare products
-2. Supplier quality issues
-3. Long supplier and manufacturing lead times
-4. Differences in shipping costs across routes and suppliers
-5. Significant differences in profitability across SKUs
+- High stockout risk across skincare and haircare products
+- Supplier quality issues
+- Long supplier and manufacturing lead times
+- Differences in shipping costs across routes and suppliers
+- Significant differences in profitability across SKUs
 
 If these issues are not properly managed, they can result in lost sales, emergency replenishment costs, product defects, customer complaints, inefficient inventory allocation, and reduced profitability.
 
 The objective of this project was therefore to use supply chain data to identify these problem areas and recommend practical actions for management.
 
 # Tools and Skills Used
-1. Microsoft Excel
-2. Data Cleaning
-3. Excel Tables
-4. Pivot Tbales
-5. Pivot Charts
-6. Excel Formulas
-7. Conditional Logic
-8. Data Aggregation
-9. CorrelatioN Analysis
-10. KPI development
-11. Dashboard Design
-12. Supply chain Analysis
-13. Business Problem Solving
-14. Data Visualization
+- Microsoft Excel
+- Data Cleaning
+- Excel Tables
+- Pivot Tbales
+- Pivot Charts
+- Excel Formulas
+- Conditional Logic
+- Data Aggregation
+- CorrelatioN Analysis
+- KPI development
+- Dashboard Design
+- Supply chain Analysis
+- Business Problem Solving
+- Data Visualization
 
 # Dashboard
 The Excel Dashboard provides a consolidated view of important supply chain metrics, including:
-1. Total Shipping Costs
-2. Average Manufacturing Lead Time
-3. Average Defect Rate
-4. Average Product Cost
-5. Stockout Risk by Product Type
-6. Supplier Performance
-7. Route Performance
-8. Transportation Costs
-9. Product Profitability
+- Total Shipping Costs
+- Average Manufacturing Lead Time
+- Average Defect Rate
+- Average Product Cost
+- Stockout Risk by Product Type
+- Supplier Performance
+- Route Performance
+- Transportation Costs
+- Product Profitability
 
 <img width="1753" height="742" alt="image" src="https://github.com/user-attachments/assets/2af5b10d-453f-4285-b7f1-28eebdc971d2" />
 
@@ -58,9 +58,9 @@ The dashboard makes it easier to identify exceptions and prioritize areas requir
 # Key Findings
 #1. Stockout Risk
 High-risk stockout records exceeded low-risk records in both major product categories
-1. Skincare: 135 high-risk records
-2. Haircare: 118 high-risk records
-3. SKU152 and SKU372 had the most severe shortages, with availability 96 units below order quantity.
+- Skincare: 135 high-risk records
+- Haircare: 118 high-risk records
+- SKU152 and SKU372 had the most severe shortages, with availability 96 units below order quantity.
 
 Other signioficant shortages  included SKU35, SKU427, SKU195, SKU391, SKU83, SKU432, and SKU487.
 
@@ -68,13 +68,13 @@ Other signioficant shortages  included SKU35, SKU427, SKU195, SKU391, SKU83, SKU
 Route C had the longest average lead time at approximately 16.05 days.
 Route B provided the best combination of lead time and shipping cost
 
-1. Average lead time: 15.30 days
-2. Average shipping cost: $5.25
+- Average lead time: 15.30 days
+- Average shipping cost: $5.25
 
 Supplier analysis also identified:
-1. Supplier 4 with the longest supplier lead time of approximately 17.04 dyas
-2. Supplier 4 manufacturing lead time of approximately 16.35 days
-3. Supplier 5 with the highest average shipping cost of approximately $5.71
+- Supplier 4 with the longest supplier lead time of approximately 17.04 dyas
+- Supplier 4 manufacturing lead time of approximately 16.35 days
+- Supplier 5 with the highest average shipping cost of approximately $5.71
 
 # 3. Supplier Quality
 Supplier 1 recorded the highest average defect rate at approximately 2.80%, followed by Supplier 3 at 2.72%.
@@ -87,12 +87,13 @@ Net Profitability was calculated as:
 # Net profitability = Revenue - Shipping Cost - Manufacturing Cost
 
 The five strongest products were:
-SKU                                         Net Profitability
-SKU198                                               $976.02
-SKU146                                               $968.80
-SKU393                                               $960.15
-SKU208                                               $956.36
-SKU378                                               $948.36
+|  SKU                     |    Net Profitability  |
+|  ---                     |    ---                |
+|  SKU198                  |    $976.02            |
+|  SKU146                  |    $968.80            |
+|  SKU393                  |    $960.15            |
+|  SKU208                  |    $956.36            |
+|  SKU378                  |    $948.36            |
 
 The weakest-performing products included:
 SKU                                         Net Profitability
