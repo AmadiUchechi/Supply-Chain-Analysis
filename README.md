@@ -106,9 +106,9 @@ SKU271                                               $31.96
 # 5. Transportation Mode
 Average shipping costs were relatively similar across transportation modes:
 
-. Air:  approximately $5.54
-. Rail: approximately $5.48
-. Road: approximately $5.39
+- Air:  approximately $5.54
+- Rail: approximately $5.48
+- Road: approximately $5.39
 
 The difference between Air and Road was only approximately $0.16 per shipment.
 
@@ -118,57 +118,56 @@ This suggests that transportation mode has a relatively weak practical relations
 Based on the dashboard analysis, the following actions are recommended:
 
 # Immediate Actions
-
-Replenish high-risk SKUs
-Prioritize SKU152, SKU372, and other products experiencing severe inventory shortages. Implement reorder points based on expected demand during lead times and appropriate safety stock.
+ Replenish high-risk SKUs
+- Prioritize SKU152, SKU372, and other products experiencing severe inventory shortages.
+- Implement reorder points based on expected demand during lead times and appropriate safety stock.
 
 Improve Supplier Quality
-Focus quality improvemt initiatives on Supplier 1 and 3 by increasing incoming quality inspections and monitoring supplier defect performance.
+- Focus quality improvemt initiatives on Supplier 1 and 3 by increasing incoming quality inspections and monitoring supplier defect performance.
 
 # Near Term Actions
-
 Optimize Transportation Routes
-Test shifting appropriate shipment volumes toward Route B, which provides a better combination of shipping cost and lead time
+- Test shifting appropriate shipment volumes toward Route B, which provides a better combination of shipping cost and lead time
 
 Improve Supplier Performance
-Place supplier 4 under a lead time improvement process and renegotiate Supplier 5's freight costs.
+- Place supplier 4 under a lead time improvement process and renegotiate Supplier 5's freight costs.
 
 # Ongoing Actions
-
 Monitor Product Profitability
-Review SKU-level profitability monthly. Protect production capacity and inventory for high-performing products while reviewing pricing, costs, suppliers, and shipping strategies for low-performing SKUs.
+- Review SKU-level profitability monthly.
+- Protect production capacity and inventory for high-performing products while reviewing pricing, costs, suppliers, and shipping strategies for low-performing SKUs.
 
 # Transportation Strategy
 
 Transportation decisons should not be based solely on shipping cost because the cost differences between Air, Rail and Road are relatively small.
-
 A more practical strategy woukd be to use:
 
-1. Road where operationally feasible
-2. Rail for steady bulk replenishment
-3. Air for urgent stockout prevention or high-margin products.
+- Road where operationally feasible
+- Rail for steady bulk replenishment
+- Air for urgent stockout prevention or high-margin products.
 
 Greater cost-saving opportunities may comes from supplier and route negotiations rather than simply changing transportation modes.
 
 # Recommended Action Priorities
-Priority             Action                                                                Expected Benefit
-Immediate            Replenish stockout-risky SKUs                                         Reduce lost sales and emergency replenishment
-Immediate            Address Supplier 1 and Supplier 3 quality issues                      Reduce defects, returns, and complaints
-Near Term            Increase appropriate use of Route 8                                   Reduce freight costs and lead times
-Near Term            Improve Supplier 4 lead time and renegotiate Supplier 5 freight       Improve reliability and reduce costs
-Monthly              Review SKU-level profitability                                        Improve product mix and operating margin
+| Priority       |   Action                                                          |    Expected Benefit                              |
+| ---            |   ---                                                             |    ---                                           |       
+| Immediate      |   Replenish stockout-risky SKUs                                   |    Reduce lost sales and emergency replenishment |
+| Immediate      |   Address Supplier 1 and Supplier 3 quality issues                |    Reduce defects, returns, and complaints       |
+| Near Term      |   Increase appropriate use of Route 8                             |    Reduce freight costs and lead times           |
+| Near Term      |   Improve Supplier 4 lead time and renegotiate Supplier 5 freight |    Improve reliability and reduce costs          |
+| Monthly        |   Review SKU-level profitability                                  |    Improve product mix and operating margin      |
 
 # Business Impact
 Implementing these recommendations can help Uniquexcel:
-1. Reduce product stockouts
-2. Improve inventory availability
-3. Reduce supplier-related defects
-4. Improve supplier accountability
-5. Reduce unnecessary logistics costs
-6. Improve supply chian reliability
-7. Prioritize high-profit products
-8. Support better data-driven decision-making
-9. Improve overall operating profitability
+- Reduce product stockouts
+- Improve inventory availability
+- Reduce supplier-related defects
+- Improve supplier accountability
+- Reduce unnecessary logistics costs
+- Improve supply chian reliability
+- Prioritize high-profit products
+- Support better data-driven decision-making
+- Improve overall operating profitability
 
 # Conclusion
 This project demonstrates how Excel can be used to transform raw supply chain data into actionable business insights.
