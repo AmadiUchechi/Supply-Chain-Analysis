@@ -6,7 +6,7 @@ Using Microsoft Excel, the raw supply chain dataset was cleaned, analyzed, and t
 The analysis focuses on answering five key business questions
 -- Which SKUs are at risk of stockouys?
 -- Which suppliers or routes are causing delays or high costs?
-3. Are defect rates linked to suplliers or manufacturing lead times?
+-- Are defect rates linked to suplliers or manufacturing lead times?
 4. What is the profitability of each product?
 5. Is transportation mode related to shipping cost?
 
