@@ -96,12 +96,13 @@ The five strongest products were:
 |  SKU378                  |    $948.36            |
 
 The weakest-performing products included:
-SKU                                         Net Profitability
-SKU61                                                $10.08
-SKU184                                               $15.62
-SKU169                                               $29.60
-SKU299                                               $29.64
-SKU271                                               $31.96
+|  SKU                     |   Net Profitability   |
+|  ---                     |   ---                 |
+|  SKU61                   |   $10.08              |
+|  SKU184                  |   $15.62              |
+|  SKU169                  |   $29.60              |
+|  SKU299                  |   $29.64              |
+|  SKU271                  |   $31.96              |
 
 # 5. Transportation Mode
 Average shipping costs were relatively similar across transportation modes:
