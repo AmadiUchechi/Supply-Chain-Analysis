@@ -77,9 +77,9 @@ Supplier analysis also identified:
 - Supplier 5 with the highest average shipping cost of approximately $5.71
 
 # 3. Supplier Quality
-Supplier 1 recorded the highest average defect rate at approximately 2.80%, followed by Supplier 3 at 2.72%.
-Supplier 4 had the lowest average defect rate at approximately 2.35%, despite having the longest manufacturing lead time.
-The correlation between manufacturing lead time and defect rate was approximately 0.02, indicating almost no relationship between the two variables.
+- Supplier 1 recorded the highest average defect rate at approximately 2.80%, followed by Supplier 3 at 2.72%.
+- Supplier 4 had the lowest average defect rate at approximately 2.35%, despite having the longest manufacturing lead time.
+- The correlation between manufacturing lead time and defect rate was approximately 0.02, indicating almost no relationship between the two variables.
 
 # 4. Product Profitability
 Net Profitability was calculated as: 
